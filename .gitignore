@@ -1,0 +1,20 @@
+# Root gitignore
+node_modules/
+.env
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/service-account.json
+
+# Flutter/Dart
+app/.dart_tool/
+app/.packages
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
